@@ -1,6 +1,6 @@
 import { useContext, useRef, useEffect } from 'react'
 import Image from 'next/image'
-import { PlayerContext } from '../../contexts/PLayerContext'
+import { PlayerContext } from '../../contexts/PlayerContext'
 import Slider from 'rc-slider'
 
 import 'rc-slider/assets/index.css'

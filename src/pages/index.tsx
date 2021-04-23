@@ -10,7 +10,7 @@ import { useContext } from 'react'
 
 
 import styles from './home.module.scss'
-import { PlayerContext } from '../contexts/PLayerContext'
+import { PlayerContext } from '../contexts/PlayerContext'
 
 type Episode = {
   id: string;

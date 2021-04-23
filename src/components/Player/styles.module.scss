@@ -130,3 +130,15 @@
     }
   }
 }
+
+@media (max-width: 1400px) {
+  .playerContainer {
+    padding: 1.5rem 2rem;
+  }
+
+  .currentEpisode {
+    img {
+      width: 12rem;
+    }
+  }
+}
