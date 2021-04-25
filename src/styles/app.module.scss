@@ -2,6 +2,14 @@
   display: flex;
 
   main {
-    width: 75%;
+    flex: 1;
+  }
+}
+
+@media (max-width: 1400px) {
+  .appWrapper {
+    main {
+      width: 75%;
+    }
   }
 }
